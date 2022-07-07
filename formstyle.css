@@ -1,0 +1,28 @@
+body{
+background-color:cornflowerblue;
+}
+
+h1{
+    text-align: center;
+    border-style:double;
+    width: 350px;
+    margin:auto;
+    border-width: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-color:antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:10px;
+    color:
+}
+
+main{
+    padding:10px;
+    border-style: double;
+    border-color:antiquewhite;
+    border-width:5px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin:20px 20px 0px 20px;
+    padding:5px;
+}
