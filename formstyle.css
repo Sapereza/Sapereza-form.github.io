@@ -16,6 +16,13 @@ h1{
     background-color:rgb(154, 203, 247);
 }
 
+p{
+background-color:rgb(154, 203, 247);
+width:350px;
+padding:10px;
+margin:0px 0px 0px 20px;
+}
+
 main{
     padding:10px;
     border-style: double;
